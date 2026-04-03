@@ -2,7 +2,7 @@
 
 # Awesome PM Skills - Complete Index
 
-**29 Active Skills | 7 Modes | 300+ Episodes | 1,000+ Daily Sources | 783K+ Views**
+**30 Active Skills | 7 Modes | 300+ Episodes | 1,000+ Daily Sources | 783K+ Views**
 
 > **📻 Built from [Lenny's Podcast](https://www.lennyspodcast.com/) by [Lenny Rachitsky](https://twitter.com/lennysan)**  
 > Curated by [Udi Menkes](https://linkedin.com/in/udimenkes) | [GenAI PM](https://genaipm.com)  
@@ -20,7 +20,7 @@ _Daily AI PM improvement powered by [GenAI PM](https://genaipm.com)_
 
 ---
 
-## 🏗️ BUILDER MODE (11 Skills)
+## 🏗️ BUILDER MODE (12 Skills)
 
 _Active building companions for coding with Claude/Cursor_
 
@@ -28,6 +28,7 @@ _Active building companions for coding with Claude/Cursor_
 [![strategic-build](images/strategic-build.png)](strategic-build/SKILL.md)
 [![continuous-discovery](images/continuous-discovery.png)](continuous-discovery/SKILL.md)
 [![design-first-dev](images/design-first-dev.png)](design-first-dev/SKILL.md)
+[![product-delight](images/product-delight.png)](product-delight/SKILL.md)
 
 [![ai-product-patterns](images/ai-product-patterns.png)](ai-product-patterns/SKILL.md)
 [![ai-startup-building](images/ai-startup-building.png)](ai-startup-building/SKILL.md)
@@ -44,13 +45,14 @@ _Active building companions for coding with Claude/Cursor_
 | 2   | **[strategic-build](strategic-build/SKILL.md)**           | Deciding what to build, LNO framework               | Shreyas Doshi, Marty Cagan                                      | 486K  |
 | 3   | **[continuous-discovery](continuous-discovery/SKILL.md)** | Weekly customer contact, opportunity solution trees | Teresa Torres (Product Talk)                                    | -     |
 | 4   | **[design-first-dev](design-first-dev/SKILL.md)**         | Building user-facing features, craft standards      | Brian Chesky, Dylan Field, Katie Dill                           | 580K  |
-| 5   | **[ai-product-patterns](ai-product-patterns/SKILL.md)**   | Integrating AI features, evals as specs             | Kevin Weil (OpenAI CPO)                                         | 202K  |
-| 6   | **[ai-startup-building](ai-startup-building/SKILL.md)**   | AI-native products, prompt engineering              | Dan Shipper, Brandon Chu                                        | 198K  |
-| 7   | **[jtbd-building](jtbd-building/SKILL.md)**               | Understanding customer jobs, design thinking        | Bob Moesta (JTBD co-creator)                                    | 69K   |
-| 8   | **[growth-embedded](growth-embedded/SKILL.md)**           | Adding viral mechanics, growth loops                | Gustaf Alstromer (YC), Elena Verna                              | 129K+ |
-| 9   | **[exp-driven-dev](exp-driven-dev/SKILL.md)**             | A/B testing, feature flags, experiments             | Ronny Kohavi, Netflix culture                                   | -     |
-| 10  | **[quality-speed](quality-speed/SKILL.md)**               | Balancing craft vs velocity                         | Dylan Field, Brian Chesky                                       | 580K  |
-| 11  | **[ship-decisions](ship-decisions/SKILL.md)**             | Deciding when to ship                               | Shreyas Doshi, Marty Cagan, Tobi Lutke                          | 486K+ |
+| 5   | **[product-delight](product-delight/SKILL.md)**           | Creating emotional connection, delight features     | Nesrine Changuel (Product Delight author)                        | -     |
+| 6   | **[ai-product-patterns](ai-product-patterns/SKILL.md)**   | Integrating AI features, evals as specs             | Kevin Weil (OpenAI CPO)                                         | 202K  |
+| 7   | **[ai-startup-building](ai-startup-building/SKILL.md)**   | AI-native products, prompt engineering              | Dan Shipper, Brandon Chu                                        | 198K  |
+| 8   | **[jtbd-building](jtbd-building/SKILL.md)**               | Understanding customer jobs, design thinking        | Bob Moesta (JTBD co-creator)                                    | 69K   |
+| 9   | **[growth-embedded](growth-embedded/SKILL.md)**           | Adding viral mechanics, growth loops                | Gustaf Alstromer (YC), Elena Verna                              | 129K+ |
+| 10  | **[exp-driven-dev](exp-driven-dev/SKILL.md)**             | A/B testing, feature flags, experiments             | Ronny Kohavi, Netflix culture                                   | -     |
+| 11  | **[quality-speed](quality-speed/SKILL.md)**               | Balancing craft vs velocity                         | Dylan Field, Brian Chesky                                       | 580K  |
+| 12  | **[ship-decisions](ship-decisions/SKILL.md)**             | Deciding when to ship                               | Shreyas Doshi, Marty Cagan, Tobi Lutke                          | 486K+ |
 
 ---
 
@@ -156,7 +158,7 @@ _Go-to-market and launch execution_
 → Use: `one-step-better-ai-pm`
 
 **...build a new feature**
-→ Start with: `zero-to-launch`, `continuous-discovery`, `design-first-dev`, `ai-product-patterns`
+→ Start with: `zero-to-launch`, `continuous-discovery`, `design-first-dev`, `product-delight`, `ai-product-patterns`
 
 **...make strategic decisions**
 → Use: `strategic-build`, `decision-frameworks`, `strategy-frameworks`
@@ -168,7 +170,7 @@ _Go-to-market and launch execution_
 → Use: `ai-product-patterns`, `ai-startup-building`
 
 **...grow users**
-→ Use: `growth-embedded`, `exp-driven-dev`, `metrics-frameworks`
+→ Use: `growth-embedded`, `exp-driven-dev`, `metrics-frameworks`, `product-delight`
 
 **...communicate better**
 → Use: `exec-comms`, `strategic-storytelling`, `confident-speaking`
@@ -215,7 +217,7 @@ Each skill includes:
 | Gustaf Alstromer | Partner, YC              | 129K  | 1 skill                   |
 | Ben Horowitz     | Andreessen Horowitz      | 119K  | 1 skill                   |
 | April Dunford    | Positioning Expert       | 95K   | 2 skills                  |
-| Plus 40+ more    | Various                  | -     | 26 skills total           |
+| Plus 40+ more    | Various                  | -     | 27 skills total           |
 
 ---
 
@@ -346,7 +348,7 @@ strategy   culture   influence   career
 
 ## 🎉 You Now Have
 
-- ✅ 29 world-class PM skills (28 Lenny Collection + 1 meta-skill)
+- ✅ 30 world-class PM skills (29 Lenny Collection + 1 meta-skill)
 - ✅ Wisdom from 300+ podcast episodes
 - ✅ Insights from 783K+ views worth of content
 - ✅ Frameworks from top companies (Airbnb, OpenAI, Figma, Stripe, Netflix, Meta, YC)
